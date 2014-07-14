@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources translatable="false">
+
+    <string name="app_name">Rpg Class Chooser</string>
+    <string name="reset_menu_item">Reset</string>
+    <string name="barbarian_class_name">Barbarian</string>
+    <string name="knight_class_name">Knight</string>
+    <string name="samurai_class_name">Samurai</string>
+    <string name="thief_class_name">Thief</string>
+    <string name="spell_blade_class_name">Spell Blade</string>
+    <string name="monk_class_name">Monk</string>
+    <string name="dark_knight_class_name">Dark Knight</string>
+    <string name="blue_mage_class_name">Blue Mage</string>
+    <string name="assassin_class_name">Assassin</string>
+    <string name="pirate_class_name">Pirate</string>
+    <string name="paladin_class_name">Paladin</string>
+    <string name="bow_dagger_class_name">Bow and Dagger Ranger</string>
+    <string name="trapper_class_name">Trapper</string>
+    <string name="black_mage_class_name">Black Mage</string>
+    <string name="red_mage_class_name">red Mage</string>
+    <string name="summoner_class_name">Summoner</string>
+    <string name="illusionist_class_name">Illusionist</string>
+    <string name="gambler_class_name">Gambler</string>
+    <string name="white_mage_class_name">White Mage</string>
+    <string name="witch_class_name">Witch</string>
+    <string name="sniper_class_name">Sniper</string>
+    <string name="beast_master_class_name">Beast Master</string>
+    <string name="alchemist_class_name">Alchemist</string>
+    <string name="bard_dancer_class_name">Bard/Dancer</string>
+    <string name="range_question">Would you rather be close to the action or fight from afar?</string>
+    <string name="dmg_type_question">Do you want to deal physical or magic damage?</string>
+    <string name="armor_question">What kind of armor do you want to wear?</string>
+    <string name="playstyle_question">Do you want to take an active or a passive role in battle?</string>
+    <string name="special_dmg_type_question">Do you want to use any magic?</string>
+    <string name="special_weapon_question">Would you like to fight with a weapon or use you bare hands?</string>
+    <string name="special_stealth_question">Would you rather use stealth or take a more direct approach to combat?</string>
+    <string name="special_ranged_weapon_question">Would you rather a bow or a gun?</string>
+    <string name="special_alignment_question">Join the dark side?</string>
+    <string name="special_luck_question">Can you rely on chance?</string>
+    <string name="special_magic_type_question">Is the magic you want to use elemental?(such as fire, ice, or electric)</string>
+    <string name="special_summoner_question">Would you rather be able to summon creatures or have more spells?</string>
+    <string name="special_support_type_question">Would you rather hinder the enemy or support your allies?</string>
+    <string name="yes_button_text">Yes</string>
+    <string name="no_button_text">No</string>
+    <string name="close_button_text">Up Close</string>
+    <string name="both_button_text">Both</string>
+    <string name="afar_button_text">Afar</string>
+    <string name="physical_button_text">Physical</string>
+    <string name="magic_button_text">Magic</string>
+    <string name="light_armor_button_text">Light</string>
+    <string name="heavy_armor_button_text">Heavy</string>
+    <string name="active_button_text">Active</string>
+    <string name="mixed_button_text">Mixed</string>
+    <string name="passive_button_text">Passive</string>
+    <string name="bare_button_text">Bare</string>
+    <string name="weapon_button_text">Weapon</string>
+    <string name="stealth_button_text">Stealth</string>
+    <string name="direct_button_text">Direct</string>
+    <string name="gun_button_text">Gun</string>
+    <string name="bow_button_text">Bow</string>
+    <string name="summon_button_text">Summon</string>
+    <string name="more_spells_button_text">More Spells</string>
+    <string name="hinder_button_text">Hinder</string>
+    <string name="hinder_support_button_text">Hinder and Support</string>
+    <string name="support_button_text">Support</string>
+    <string name="barbarian_description">You are a barbarian. Barbarians have good damage output
+        but wear less armor than other classes and have almost no magic defense. They often make up for this disadvantage by boasting 
+        high natural defense.Their special abilities are mostly some variation of a berserker rage where they gain increased
+        damage when low on health.</string>
+    <string name="knight_description">You are a knight. Knights are generally well-rounded fighters who can wear better armor
+        than other classes. They can wield a variety of melee weapons and because they can also use shields, knights have good defense
+        attributes. Knights are good choices if you need a tank.</string>
+    <string name="samurai_description">You are a samurai. Samurai are swordsman with a lot of potential to deal damage.
+        although they deal mostly physical damage, they typically have focus or ki abilities which provide energy attacks.
+        they use less armor than other fighters but make up for it with higher agility stats. Some variations of samruai
+        can spend money to use certain abilities.</string>
+    <string name="thief_description">You are a thief. Thieves steal items, weapons, armor, and currency from 
+        enemies. They have speed and dexterity and use small weapons like daggers in combat.
+        Thieves can be great team players since everyone in the party can get a cut of the loot they gain.</string>
+    <string name="spell_blade_description">You are a spell blade. Spell Blades are equal parts fighter and mage and come in many varieties.
+        the most typical ones have magic infused weapons that deal physical alongside magic damage. Other types use conjured
+        weapons that require mana and intelligence for improvement. Spell blades are often less focused in their fighting and magic stats,
+        preferring versatility over any specific trait.</string>
+    <string name="monk_description">You are a monk. Monks do not rely on armor or weapons to improve theirs stats, although they sometimes
+        employ claws or brass knuckles.Like the samurai, monks have special energy abilities that allow them higher damage output. An advantage of
+        having a monk in your party is that they are very low maintenance and grow from combat experience while being less dependent on the items you equip them with.</string>
+    <string name="dark_knight_description">You are a dark knight. The dark knight is a  powerful class that can take enemies down with weapons or dark magics, but there is a catch.
+        to use many of their abilities they must sacrifice the well being of either themselves or others in the party. To use a dark knight effectively you must
+        aim for high health or be in the company of a dispensable ally... </string>
+    <string name="blue_mage_description">You are a blue mage. Blue mages are the most resourceful magic class because they can gain any spell
+        or ability by learning it from an enemy. A blue mage\'s only inherent ability is \"absorb\" or \"learn\", but from that the extent of their arsenal is limitless.</string>
+    <string name="assassin_description">You are an assassin. The assassin\'s specialties are in stealth and evasion and are known for causing high damage quickly. 
+        common weapon choices for the assassin are daggers, knives, or small thrown weapons like shurikens. Assassins are handy when facing well guarded enemies or enemies with
+        heavy armor since many of their attacks have piercing, poison, and bleeding attributes.</string>
+    <string name="pirate_description">You are pirate. The pirate is one of the less defined classes in the rpg genre but it\'s major feature is
+        the ability to wield both a sword and a gun. Pirates have rougue-like stats such as high luck and dexterity and in role-playing they tend to flip-flop
+        when it comes to morality. </string>
+    <string name="paladin_description">You are a paladin. The paladin is the opposite of the dark knight and visa-versa. Paladin\'s are competent warriors who possess holy
+        magic and buffs for allies. They are most effective against evil or undead enemies since their light magic is often a natural bane of those types. Paladins make
+        great leaders since they can handle their own in combat and allies flock to them for their enhancement spells.</string>
+    <string name="bow_dagger_description">You are a bow and dagger ranger. As the name suggests, their weapons of choice are a bow for ranged targets and daggers for melee.
+        The bow and dagger ranger wears light armor and have high athletic traits making them mobile and good at evading enemy attacks.
+        </string>
+    <string name="trapper_description">You are a trapper. A trapper\'s job is to lay traps for enemies in preparation for an ambush. The traps often 
+        apply status ailments making subsequent attacks from the trapper more effective. Trappers are usually more viable for team play rather than
+        solo playthroughs.</string>
+    <string name="black_mage_description">You are a black mage. The black mage is the standard offensive magician. Most of their spells are associated with elemental properties
+        like fire, ice, or lightning. As the playthrough progresses, their spells evolve into more powerful versions of the starter ones that gain additional benefits
+        such as striking multiple enemies. </string>
+    <string name="red_mage_description">You are a red mage. The red mage is the jack-of-all-trades magic class. They can learn spells from any school but 
+        have issues when it comes to specialization. Red mages are useful if there aren\'t many magic users in the party since they can play the role of offense and
+        defense.</string>
+    <string name="summoner_description">You are a summoner. A summoner\'s primary spells are summons for entities to fight for them. Necromancers fall into this category as 
+        well, focusing on undead creatures while other summoners often call on demigods or more light-aligned entities. Summoners also have buffing spells that they use
+        to help their summoned allies stay alive in combat.</string>
+    <string name="illusionist_description">You are an illusionist. Illustionists cast spells that hinder the enemies combat performance. Common illusionist spells include
+        \"blind\", \"sleep\", and \"confuse\". Illusionists don\'t hold well by themselves as they usually have little to no damage output, but in a team they can be extremely useful. </string>
+    <string name="gambler_description">You are a gambler. Gamblers rely almost exclusively on luck. They can deal physical damage using unconventional weapons like throwing cards
+        or use magic abilities whose resulting damage output is based on their luck attribute. Gamblers are a rare class who can fail miserably during small scraps or defeat the final boss
+        in one hit.</string>
+    <string name="white_mage_description">You are a white mage. Also known as priests, the white mage is the healer of the group. In addition to basic healing spells they can remove
+        status ailments and provide buffs to allies such as raising their defense or attack power. Like other support classes, white mages are best suited for team play. </string>
+    <string name="witch_description">You are a witch. Witches(or sometimes witch doctors or shaman) are offensive magic users. Unlike the black mage, their spells do not necessarily
+        relate to elements. Many times, witches call on natural spirits, good or evil, as the source of their magic and have access to debuffing spells like \"curse\" </string>
+    <string name="sniper_description">You are a sniper. Snipers hang back during battle, preferring to take enemies out from afar. They have high damage output based on their chance
+        for critical hits and benefit from increased dexterity. Depending on the setting of the game, snipers can either wield bows or rifles.</string>
+    <string name="beast_master_description">You are a beast master. Beast masters have natural affinities towards animals and are a package deal with an animal companion. 
+        They can use bows to assist their pets in combat or whips in some cases.In addition to owning a pet, many beast masters also have taming abilities to use against
+        beast-type or wild foes. </string>
+    <string name="alchemist_description">You are an alchemist. Alchemists are unique in that the don\'t normally have equipped weapons. Instead, they carry around
+        items which can be crafted into bombs, poisons, or potions in the midst of combat. An alchemist\'s main atrribute is intelligence, which
+        allows them to craft better potions and bombs. Always keep a good stock of items when playing with an alchemist as they are useless without them. </string>
+    <string name="bard_dancer_description">You are a bard or dancer. Bards and dancers are a mix between illusionists and white mages, only they use music and dancing in lieu of magic spells.
+        they are not only good support characters in battle, but also have high stats in speech and diplomacy, which can be beneficial outside of combat.</string>
+    <string name="title_activity_class_description">ClassDescriptionActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
